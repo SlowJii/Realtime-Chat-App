@@ -2,7 +2,7 @@
 
 This simple repo shows how to easily add chat functionality into an Express project with [Chat Engine](https://chatengine.io).
 
-To understand the code, please watch [this video]()!
+To understand the code, please watch [this video](https://www.youtube.com/watch?v=Fzv-rgwcFKk)!
 
 ## Setup Steps
 

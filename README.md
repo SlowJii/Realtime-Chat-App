@@ -35,7 +35,7 @@ First step is open a terminal parallel to the previous terminal of the backend
 Everythings is ready
 
 
-#If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
+# If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
 # If google or etc can't give you answer, go and see the video 100 times, you will understand
 
 ### Some link and docs 

@@ -34,16 +34,18 @@ First step is open a terminal parallel to the previous terminal of the backend
 
 Everythings is ready
 
-
-# If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
-# If google or etc can't give you answer, go and see the video 100 times, you will understand
-
 ### Some link and docs 
 
 - https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
 - https://www.npmjs.com/package/react-chat-engine-advanced
 - https://www.npmjs.com/package/react-chat-engine-p
 - https://rest.chatengine.io/#ceafb410-6f76-43a1-9c68-eeb35867c090
+
+
+
+# If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
+# If google or etc can't give you answer, go and see the video 100 times, you will understand
+
 
 
 

@@ -26,7 +26,7 @@ Open your IDE and add "backend" and "frontend" to your Workspace
 
 To run backend server, type ```npm run start``` on backend terminal
 
-# Now go to frontend
+### 3 - Now go to frontend
 First step is open a terminal parallel to the previous terminal of the backend
 
 ```cd frontend/```
@@ -35,14 +35,15 @@ First step is open a terminal parallel to the previous terminal of the backend
 Everythings is ready
 
 
-### If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
-### If google or etc can't give you answer, go and see the video 100 times, you will understand
+#If you have any questions, PLEASE ask google or stackoverflow because it doesn't charge
+# If google or etc can't give you answer, go and see the video 100 times, you will understand
 
 ### Some link and docs 
--[Blog] (https://blog.chatengine.io/fullstack-chat/nodejs-reactjs)
--[React-Chat-Engine_Advanced] (https://www.npmjs.com/package/react-chat-engine-advanced)
--[React-Chat-Engine_Pretty] (https://www.npmjs.com/package/react-chat-engine-pretty)
--[Rest_ChatEngine] (https://rest.chatengine.io/#ceafb410-6f76-43a1-9c68-eeb35867c090)
+
+- https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
+- https://www.npmjs.com/package/react-chat-engine-advanced
+- https://www.npmjs.com/package/react-chat-engine-p
+- https://rest.chatengine.io/#ceafb410-6f76-43a1-9c68-eeb35867c090
 
 
 

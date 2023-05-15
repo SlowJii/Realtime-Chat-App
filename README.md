@@ -13,7 +13,7 @@ Make your express server support chat - in 3 steps:
 Go to [Chat Engine](https://chatengine.io) to setup your own chat server.
 
 - Click "New Project" and follow the steps
-- Your `Project ID` and `Private Key` will be required for step 2
+- Your `Project ID` and `Private Key` will be required for step 4
 
 ### 2 - Setup code
 
@@ -31,6 +31,11 @@ First step is open a terminal parallel to the previous terminal of the backend
 
 ```cd frontend/```
 ```npm install```
+
+### 4 - setup ProjectID and PrivateKey
+
+- Replace your PrivateKey at line 23 in file backend/index.js
+- Replace your ProjectID at line 10 in frontend/src/assets/ChatsPage.jsx
 
 Everythings is ready
 
